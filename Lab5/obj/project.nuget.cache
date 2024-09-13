@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6hh8gyQ/khlQztjcRvu7o+/xZs88Ckax4Rtkv7iy+GxwMCfOZGm6A1lgm2RXLh603GWTIU4c757NW/3zWcuOcg==",
+  "success": true,
+  "projectFilePath": "/Users/polinasevcova/RiderProjects/oopPaterns/Lab5/Lab5.csproj",
+  "expectedPackageFiles": [
+    "/Users/polinasevcova/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
+    "/Users/polinasevcova/.nuget/packages/xunit.extensibility.core/2.9.0/xunit.extensibility.core.2.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
